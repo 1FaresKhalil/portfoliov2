@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/",
   linkedin: "https://www.linkedin.com/in//",
-  gmail: "omnia@gmail.com",
+  gmail: "saadpasta70@gmail.com",
   gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/",
   medium: "https://medium.com/",
@@ -342,7 +342,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    ""
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -351,7 +351,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+20-10123456789",
+  number: "+20 10123456789",
   email_address: "omnia@gmail.com"
 };
 
@@ -373,9 +373,5 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-  blogSection,
-  talkSection,
-  podcastSection,
   contactInfo,
-  twitterDetails
 };
