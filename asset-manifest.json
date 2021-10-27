@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb80d2a9.chunk.css",
-    "main.js": "/static/js/main.5261c0aa.chunk.js",
-    "main.js.map": "/static/js/main.5261c0aa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e2b8aeb2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e2b8aeb2.js.map",
-    "static/js/2.8154adbc.chunk.js": "/static/js/2.8154adbc.chunk.js",
-    "static/js/2.8154adbc.chunk.js.map": "/static/js/2.8154adbc.chunk.js.map",
+    "main.css": "/static/css/main.d8cf2431.chunk.css",
+    "main.js": "/static/js/main.d30299e3.chunk.js",
+    "main.js.map": "/static/js/main.d30299e3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f59bf96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f59bf96.js.map",
+    "static/js/2.f630294c.chunk.js": "/static/js/2.f630294c.chunk.js",
+    "static/js/2.f630294c.chunk.js.map": "/static/js/2.f630294c.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.09c181b3.chunk.js": "/static/js/3.09c181b3.chunk.js",
-    "static/js/3.09c181b3.chunk.js.map": "/static/js/3.09c181b3.chunk.js.map",
+    "static/js/3.88e1b9a2.chunk.js": "/static/js/3.88e1b9a2.chunk.js",
+    "static/js/3.88e1b9a2.chunk.js.map": "/static/js/3.88e1b9a2.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.221f4606.chunk.js": "/static/js/4.221f4606.chunk.js",
-    "static/js/4.221f4606.chunk.js.map": "/static/js/4.221f4606.chunk.js.map",
+    "static/js/4.9308d4d4.chunk.js": "/static/js/4.9308d4d4.chunk.js",
+    "static/js/4.9308d4d4.chunk.js.map": "/static/js/4.9308d4d4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.603238a948514ea2b004565cc8d8a4d5.js": "/precache-manifest.603238a948514ea2b004565cc8d8a4d5.js",
+    "precache-manifest.0b2d13c78cc80ba202a180d9e2dddb56.js": "/precache-manifest.0b2d13c78cc80ba202a180d9e2dddb56.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.bb80d2a9.chunk.css.map": "/static/css/main.bb80d2a9.chunk.css.map",
-    "static/js/2.8154adbc.chunk.js.LICENSE.txt": "/static/js/2.8154adbc.chunk.js.LICENSE.txt",
+    "static/css/main.d8cf2431.chunk.css.map": "/static/css/main.d8cf2431.chunk.css.map",
+    "static/js/2.f630294c.chunk.js.LICENSE.txt": "/static/js/2.f630294c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
@@ -34,13 +34,12 @@
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
-    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2b8aeb2.js",
-    "static/js/2.8154adbc.chunk.js",
-    "static/css/main.bb80d2a9.chunk.css",
-    "static/js/main.5261c0aa.chunk.js"
+    "static/js/runtime-main.9f59bf96.js",
+    "static/js/2.f630294c.chunk.js",
+    "static/css/main.d8cf2431.chunk.css",
+    "static/js/main.d30299e3.chunk.js"
   ]
 }

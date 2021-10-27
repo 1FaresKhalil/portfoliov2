@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42c38d1c570decfca5dbc1b8f9900431",
+    "revision": "cad35acb6f2e01fb558d3f67e28a1031",
     "url": "/index.html"
   },
   {
-    "revision": "080c1aa5aefd6a740254",
+    "revision": "9ec58beb3539572a91fb",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "08124f85392cc521569f",
+    "revision": "a78a593fae1ff0ec2a74",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "4115eb052e3b2fab41ba",
-    "url": "/static/css/main.bb80d2a9.chunk.css"
+    "revision": "f2616254da10de7b0173",
+    "url": "/static/css/main.d8cf2431.chunk.css"
   },
   {
-    "revision": "363cba3172571f593c67",
-    "url": "/static/js/2.8154adbc.chunk.js"
+    "revision": "86b67b59e469934376fb",
+    "url": "/static/js/2.f630294c.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.8154adbc.chunk.js.LICENSE.txt"
+    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
+    "url": "/static/js/2.f630294c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "080c1aa5aefd6a740254",
-    "url": "/static/js/3.09c181b3.chunk.js"
+    "revision": "9ec58beb3539572a91fb",
+    "url": "/static/js/3.88e1b9a2.chunk.js"
   },
   {
-    "revision": "08124f85392cc521569f",
-    "url": "/static/js/4.221f4606.chunk.js"
+    "revision": "a78a593fae1ff0ec2a74",
+    "url": "/static/js/4.9308d4d4.chunk.js"
   },
   {
-    "revision": "4115eb052e3b2fab41ba",
-    "url": "/static/js/main.5261c0aa.chunk.js"
+    "revision": "f2616254da10de7b0173",
+    "url": "/static/js/main.d30299e3.chunk.js"
   },
   {
-    "revision": "feb3b390e85e3f2fd959",
-    "url": "/static/js/runtime-main.e2b8aeb2.js"
+    "revision": "28e16642b9e8b010e16e",
+    "url": "/static/js/runtime-main.9f59bf96.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -102,9 +102,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b758ef56d398145542e137daa28e392",
     "url": "/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
