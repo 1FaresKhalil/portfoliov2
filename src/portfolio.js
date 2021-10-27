@@ -25,8 +25,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/",
-  linkedin: "https://www.linkedin.com/in//",
-  gmail: "saadpasta70@gmail.com",
+  linkedin: "https://www.linkedin.com/in/",
+  gmail: "omnia@gmail.com",
   gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/",
   medium: "https://medium.com/",
